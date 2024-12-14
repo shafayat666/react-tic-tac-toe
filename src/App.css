@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.square {
+  background-color: #1a1a1a;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 100px;
+  /* margin-right: -1px;
+  margin-top: -1px; */
+  padding: 0px;
+  text-align: center;
+  width: 100px;
+}
